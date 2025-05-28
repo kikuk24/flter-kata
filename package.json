@@ -8,7 +8,7 @@
     "test": "jest",
     "build": "tsc"
   },
-  "keywords": [],
+  "keywords": ["profanity", "filter", "censor", "text"],
   "author": "kikuk24",
   "license": "ISC",
   "type": "commonjs",
